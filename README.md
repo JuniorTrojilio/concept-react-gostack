@@ -5,7 +5,7 @@
 <p align="center">In this initial module we learn the main react concepts.</p>
 <div display="inline" align="center">
 <img src="https://img.shields.io/github/license/juniortrojilio/concept-react-gostack?style=flat-square" >
-<img src="https://img.shields.io/github/last-commit/juniortrojilio/concept-react-gostack">
+<img src="https://img.shields.io/github/license/juniortrojilio/concept-react-gostack">
 </div>
 
 ---
